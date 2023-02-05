@@ -2,45 +2,40 @@
   ![MIT License](https://img.shields.io/badge/license-MIT-green)
   ## Description 
 
-  This project allow developers to type their README files faster and professional.
-  
+This is a command-line application that dynamically generates a professional README.md file from user's input. The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
+
   ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
   * [License](#license)
-  
   
   ## Installation
   
-  Clone the repo and type 'node index.js' on the terminal
-  
+1. Clone the repository to your local machine
+2. Run **npm install** to install dependencies
+3. Run the application using the command **node index.js**
+
   ## Usage 
   
-  Open VS Code and run node
-  
-  ## Collaborators
-  
- Naz Yasar
+The application will prompt the user for information about the project. Upon completion, a README.md file will be generated in the local directory.
   
   ## License
   
-  This project is licensed under the MIT License
-  
-  ## Badges
-  
-  ![MIT License](https://img.shields.io/badge/license-MIT-green)
+  This project is licensed under the MIT License.
 
   ## Questions
   
-  * [Github](https://github.com/nazyasar)
-  * For any more questions, reach me at my [email](nazyasar95@gmail.com)
+  * For any more questions, reach me at my [email](nazyasar95@gmail.com).
   
   ## Contributing
   
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+Feel free to submit pull requests and open issues.
   
   ## Tests
   
-  Test
+Run **npm test** to run tests on the application.
+
+  ## Recording
+[My recording of README Generator.webm](https://user-images.githubusercontent.com/55256787/216795936-a6b127fe-cb50-4654-a346-4e5d0f321977.webm)
+
